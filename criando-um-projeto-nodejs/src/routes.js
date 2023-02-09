@@ -17,10 +17,11 @@ export const routes = [
     method: 'POST',
     path: '/users',
     handler: (req, res) => {
+      const { name, email } = req.body;
       const user = {
         id: randomUUID(),
-        name: 'John Doe', 
-        email: 'johndoe@example.com'
+        name, 
+        email
       };
   
       database.insert('users', user);
