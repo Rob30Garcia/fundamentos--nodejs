@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/status-finish-%23339933">
 </p>
 
-Tabela de conteúdos
+:notebook: Tabela de conteúdos
 =================
 <!--ts-->
   [Sobre](#Sobre)
@@ -20,13 +20,13 @@ Tabela de conteúdos
   [Como usar](#como-usar)
 <!--te-->
 
-# Sobre
+# :grey_question: Sobre
 
 Um projeto para aprender alguns conceitos básicos em node.js como uso de streams, database com arquivos e uso de rotas para api como GET, POST, PUT e DELETE.
 
 Além disso, foi feito o middleware para ler o json. Também o uso Regex para ler o params e o query da rota.
 
-# Instalação
+# :rocket: Instalação
 
 - Clone o projeto
 - Com o repositório clonado rode npm install
