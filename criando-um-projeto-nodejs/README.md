@@ -63,5 +63,9 @@ Para rodar a aplicação com streams:
 
   - em seguida deve aparecer um resultado de 1 a 5.
 
+# Como usar
 
+Depois que a aplicação estiver rodando precisamos usar o insomnia para fazer as requisições para pelas rotas:
+
+- Import o arquivo "Insomnia-All_2023-02-26.json" no próprio insomnia.
 
